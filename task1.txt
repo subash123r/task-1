@@ -1,0 +1,22 @@
+1.question
+Objects, in JavaScript is it’s most important data type and forms the building blocks for modern JavaScript These objects are different from JavaScript the data types{Number, String, Boolean, null, undefined and symbol} An object, is a reference data type  value are given a reference or a pointer to that value  A JavaScript object has properties associated with it A property of an object can be explained as a variable that is attached to the object t Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects  The properties of an object define the characteristics of the object  You access the properties of an object with a simple dot notatio0n
+
+2.questione
+http1;
+*Its works on the textual format
+*There is head of line blocking that blocks all the request behind it unit it doesnot get its all resources
+*It uses requests resourvce inline for use getting multiple pages
+*It compresses data by itself
+ http2;
+*it works on the binary protocol
+*it allows multiplexing so one tcp connecting is required for multiple requests
+*it use push frame by serves that collects all multiples pages
+*it uses hpack for data compression 
+
+3.question 
+ip address an ip address or internet or internet protocol address is a uniqe number that identifies a device on the internet or a local network ip adderess are typically assigneed byb an internet service provide 
+*ip address serves two main function
+*network interface identificatoion 
+*IP Addresses are generated using two main versions of internet
+*Search for “cmd” in the windows search
+* Click to get command line
